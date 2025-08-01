@@ -57,7 +57,7 @@
 
 1.  Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/TheLastManSleeping/kafka-clickhouse-demo.git
+    git clone https://github.com/TheLastManSleeping/kafka-postgresql-demo.git
     ```
 2.  Запустите все сервисы:
     ```bash
